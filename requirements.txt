@@ -1,0 +1,14 @@
+absl-py
+torch
+numpy
+sklearn
+opencv-python
+jax
+flax
+git+https://github.com/deepmind/optax.git#egg=optax
+git+https://github.com/google/flax.git#egg=flax
+ml_collections
+git+https://github.com/google/jaxopt.git#egg=jaxopt
+torchvision
+diffrax
+tqdm
